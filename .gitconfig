@@ -1,0 +1,5 @@
+[http]
+	proxy = http://dune%5C22547:2260@192.168.40.21:8080
+[user]
+	name = Your Name
+	email = you@example.com
